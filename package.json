@@ -1,0 +1,9 @@
+{
+  "name": "grok",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "devDependencies": {}
+}
